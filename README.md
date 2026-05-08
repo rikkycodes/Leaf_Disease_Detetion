@@ -1,1 +1,1 @@
-# Leaf_Disease_Detetion
+# Leaf_Disease_Detetion.
